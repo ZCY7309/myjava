@@ -1,7 +1,7 @@
 package springtest.nibolan;
 import java.util.ArrayList;
 import java.util.List;
-
+//测试
 public class Nbl {
     private static MyStack ms1 = new MyStack();//生成逆波兰表达式的栈
     private static MyStack ms2 = new MyStack();//运算栈
