@@ -1,7 +1,7 @@
 package springtest.nibolan;
 import java.util.ArrayList;
 import java.util.List;
-
+//测试
 public class MyStack {
     private List<String> l;
     private int size;
